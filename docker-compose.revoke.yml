@@ -15,6 +15,3 @@ services:
       --non-interactive
       --cert-name ${DOMAIN}
       --cert-name *.${DOMAIN}
-  
-
-
